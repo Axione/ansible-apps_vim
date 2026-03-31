@@ -1,0 +1,17 @@
+name: ansible-apps_vim
+id: ari:cloud:compass:13ccdfa1-fb5d-41a4-9fd5-2c23ef1d97ea:component/dd5a9e2b-9095-4ab0-adb9-13a57e0ef868/26b74db9-ab2b-4cc1-b572-61d75c81fad6
+description: Install and configure vimrc
+configVersion: 1
+typeId: OTHER
+ownerId: ari:cloud:identity::team/6eaeb363-b375-4c63-9ed1-1868aaa3a6e4
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Axione/ansible-apps_vim
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
